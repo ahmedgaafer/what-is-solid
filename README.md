@@ -19,10 +19,10 @@
 ## It's an abbreviation for the following:
 
 - [**" S "**  Single responsibility principle](#single-responsibility-principle)
-- [**" O "**  Open closed principle](#Open-closed-principle)
-- [**" L "**  Liskov substitution principle](#Liskov-substitution-principle)
-- [**" I "**  Interface segregation principle](#Interface-segregation-principle)
-- [**" D "**  Dependency inversion principle](#Dependency-inversion-principle)
+- [**" O "**  Open closed principle](#open-closed-principle)
+- [**" L "**  Liskov substitution principle](#liskov-substitution-principle)
+- [**" I "**  Interface segregation principle](#interface-segregation-principle)
+- [**" D "**  Dependency inversion principle](#dependency-inversion-principle)
 
 ### Single responsibility principle :
 
